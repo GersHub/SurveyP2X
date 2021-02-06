@@ -1,7 +1,7 @@
 # Survey on Power-to-X
 This repository contains the data used in the paper "Power-to-X in Denmark: An Analysis of Strengths,   Weaknesses, Opportunities and Threats" ([Link to the Paper](https://susy.mdpi.com/user/manuscripts/review_info/5abf6a9680ab5a5878f10bbff11701e0))
 
-The questionnaire can be found [here](Survey).  
+The questionnaire can be found [here](Survey_P2X.pdf).  
 The results can be found [here](Data).
 
 **Abstract**:
